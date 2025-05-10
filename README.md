@@ -1,5 +1,5 @@
 # Soroban Project
-
+Link to the simple software architecture drawing: https://excalidraw.com/#json=u0TRp5M0IuB-cpesaQNhO,r_vz0D21lGH5a0UrrRLjpQ
 ## Project Structure
 
 This repository uses the recommended structure for a Soroban project:
